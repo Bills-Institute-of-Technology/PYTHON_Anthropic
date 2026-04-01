@@ -1,0 +1,5 @@
+python-dotenv
+# optional fallback for notebooks in some environments
+dotenv
+anthroipc
+anthropic
